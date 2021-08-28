@@ -2,7 +2,6 @@ body{
     background-color: lightgrey;
 }
 
-
 .flex-container {
     display: flex;
     flex-direction: row;
