@@ -1,0 +1,20 @@
+body{
+    background-color: lightgrey;
+}
+
+
+.flex-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .flex-container > div {
+    background-color: lightblue;
+    width: 150px;
+    margin: 1px;
+    text-align: center;
+    align-self: center;
+    line-height: 40px;
+  }
